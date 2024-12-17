@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.App {
+    text-align: center;
+}
+
+.timer {
+    margin: 20px;
+}
+
+.timer .time {
+    font-size: 2em;
+}
+
+.timer .buttons button {
+    margin: 5px;
+}
